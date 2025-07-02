@@ -1,38 +1,33 @@
-# AI Metaphors & Moments
+# GPT Metaphors & Lessons
 
-This repository collects short, powerful insights, metaphors, and cultural analogies about AI and GPT systems — inspired by everyday moments, classic media, and modern chaos.
+This is a growing collection of short, powerful metaphors, analogies, and reflections on AI and GPT systems — inspired by classic media, real-world moments, and everyday chaos.
 
-Each file is a self-contained idea that could stand alone as a:
-- 🔹 LinkedIn post  
-- 📚 Teaching example  
-- 🧠 Conversation starter  
-- 💡 Future writing seed  
-
-These are not technical papers — they’re reflections and analogies meant to help people *feel* and *understand* AI, not just analyze it.
+Each file here started as a spark: a sandwich run, a passing thought, a system under pressure — and became something worth saving, teaching, or sharing.
 
 ---
 
 ## Why This Exists
 
-Sometimes the best way to explain a runaway language model…  
+Sometimes the best way to explain runaway language models…  
 is to talk about enchanted brooms in *Fantasia*.
 
-This repo is a living notebook of those connections — captured before they’re forgotten, and shared in case they help others frame their own thoughts.
+This repo captures those kinds of moments — not technical papers, but cultural reflections meant to help people *feel* and *understand* what AI is doing to us (and for us).
 
 ---
 
-## Topics (so far)
+## What You'll Find
 
-- `01_fantasia-gpt-metaphor.md`: Mickey, GPT, and the Broom Apocalypse  
-*(Why AI alignment feels like 1940s animation)*
-
-More to come.
+- 🎩 **LinkedIn-worthy ideas**  
+- 📚 **Teaching metaphors**  
+- ✍️ **Seeds for essays, talks, or books**  
 
 ---
 
-**Feel free to fork, share, or build on anything here. Credit appreciated, but ideas want to travel.**
+## Current Entries
 
-Let me know if you want a slightly more academic tone or a more humorous spin (e.g., "GPT Fables: Talking Parrots, Broom Armies, and Other Misfires").
+- [`01_fantasia-gpt-metaphor.md`](01_fantasia-gpt-metaphor.md)  
+  *Mickey, GPT, and the Broom Apocalypse* — Why AI misalignment feels like a 1940s cartoon.
 
+---
 
-ChatGPT can make mistakes. Check important info.
+Feel free to fork, cite, or remix. Credit appreciated — but the goal is clarity, not control.
